@@ -29,8 +29,6 @@ Potential diabetic patients.
 
 ### Tools:
 
-Google Sheets, Tableu and Python tools will be used.
-
 How do you intend to meet the tools requirement of the project?
 
 I'm considering to use Google Sheets for the exploratory phase. Visualization with Tableu and Pandas will be applied as well as Python for the modeling work.
