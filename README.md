@@ -1,5 +1,5 @@
-# Diabetes Patient Identification
-About one in seven U.S. adults has diabetes now, according to the Centers for Disease Control and Prevention. But by 2050, that rate could skyrocket to as many as one in three. With this in mind, learning how to use Machine Learning to help Pharma companies identify Diabetic patients that show characteristics that are similar to other patients with the same diagnosis for business strategy purposes.
+# Diabetes Risk Forecast
+About one in ten U.S. adults has diabetes now, according to the Centers for Disease Control and Prevention (CDC). But by 2050, that rate could skyrocket to as many as one in three. With this in mind, we will show how to implement Data Science to help Pharma companies identify Diabetic patients that show characteristics that are similar to other patients with the same diagnosis for business strategy purposes.
 
 ### Question/Need:
 
