@@ -1,15 +1,15 @@
 # Diabetes Risk Forecast
-About one in ten U.S. adults has diabetes now, according to the Centers for Disease Control and Prevention (CDC). But by 2050, that rate could skyrocket to as many as one in three. With this in mind, we will show how to implement Data Science to help Pharma companies identify Diabetic patients that show characteristics that are similar to other patients with the same diagnosis for business strategy purposes.
+About one in ten U.S. adults has diabetes now, according to the Centers for Disease Control and Prevention (CDC). But by 2050, that rate could skyrocket to as many as one in three. With this in mind, we will show how implementing Data Science we can help Pharma companies identify Diabetic patients that show characteristics that are similar to other patients with the same diagnosis to expand diabetes portfolio with preventive medicine that can help patients take actions to control the process of becoming diabetic in the future.
 
 ### Question/Need:
 
 What is the framing question of your analysis, or the purpose of the model/system you plan to build?
 
-I am planning to build a model that can identify a potential diabetic patient based on the similar characteristics to other patients with this diagnostic.
+I am planning to build a model that can identify potential diabetic patients based on the similar characteristics to other patients with this diagnostic.
 
 Who benefits from exploring this question or building this model/system?
 
-It's economically lucrative for pharma companies as diabetes treatment drugs are often extremely expensive in the US and the per patient revenues could be very significant. That said, pharma companies can make business plans for grow based on a future demand.
+It's economically lucrative for pharma companies as diabetes treatment drugs are often extremely expensive in the US and the per patient revenues could be very significant. That said, expanding their portfolio with drugs that can not only treat diabetic patients but also those who are potencially in risk to become in one, represents a big opportunity for business expansion as well as positive marketing.
 
 ### Data Description:
 
@@ -26,6 +26,13 @@ Using a cohort of patients who have been confirmed to have diabetes, we can crea
 If modeling, what will you predict as your target?
 
 Potential diabetic patients.
+
+What would be your impact / impact hypothesis:
+
+The impact for the pharma company would include the following:
+- The early detection of patients at risk of being diabetic would increase significantly the number of patients (target) in the Diabetic Division within the Pharma company. That means an expansion of its portfolio with a very positive revenue impact.
+- Positive marketing for the pharma company.
+- Positive social impact on the health of the population.
 
 ### Tools:
 
