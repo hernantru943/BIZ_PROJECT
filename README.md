@@ -3,7 +3,7 @@ About one in ten U.S. adults has diabetes now, according to the Centers for Dise
 
 ### Question/Need:
 
-<b>What is the framing question of your analysis, or the purpose of the model/system you plan to build?<b>
+##### What is the framing question of your analysis, or the purpose of the model/system you plan to build?
 
 I am planning to build a model that can identify potential diabetic patients based on the similar characteristics to other patients with this diagnostic.
 
