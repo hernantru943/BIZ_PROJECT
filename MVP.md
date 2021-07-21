@@ -2,6 +2,8 @@
 
 ## Hot to identify potential diabetic patients based on the similar characteristics to other patients with diabetes diagnostic?
 
+
+
 Dashboard 1.png![Dashboard 1](https://user-images.githubusercontent.com/77758249/126440042-840629f4-ade0-4d12-b551-bf69fb5c165e.png)
 
 Our dataset contains 2000 observations for female patients older that 21 years old. After doing some preliminar EDA and building a classification model we can share the following dashboard with this findings:
