@@ -1,19 +1,17 @@
 # Diabetes Risk Forecast
-About one in ten U.S. adults has diabetes now, according to the Centers for Disease Control and Prevention (CDC). But by 2050, that rate could skyrocket to as many as one in three. With this in mind, we will show how implementing Data Science we can help Pharma companies identify Diabetic patients that show characteristics that are similar to other patients with the same diagnosis to expand diabetes portfolio with preventive medicine that can help patients take actions to control the process of becoming diabetic in the future.
+About one in ten U.S. adults has diabetes now, according to the Centers for Disease Control and Prevention (CDC). But by 2050, that rate could skyrocket to as many as one in three. With this in mind, we will show how implementing Data Science we can support the Healtcare Systems such as Hospitals and Clinics identify potential Diabetic patients that show characteristics that are similar to other patients with the same diagnosis in order to provide early proffessional advise with medicine and treatments that can help patients take actions to control the process of becoming diabetic in the future.
 
 ### Question/Need:
 
 ##### What is the framing question of your analysis, or the purpose of the model/system you plan to build?
 
-I am planning to build a model that can identify potential diabetic patients based on the similar characteristics to other patients with this diagnostic.
+I am planning to build a model that can identify potential diabetic patients based on the similar characteristics to other patients with diabetes diagnostic.
 
 ##### Who benefits from exploring this question or building this model/system?
 
-It's economically lucrative for pharma companies as diabetes treatment drugs are often extremely expensive in the US and the per patient revenues could be very significant. 
+It's economically lucrative for Hospitals and Clinics as diabetes treatments  are often extremely expensive in the US and the per patient revenues could be very significant. Also, patients would be beneficted by the early detection of diabetes and avoind future complications.
 
-For instance, people with type 2 diabetes often have to take multiple medicines every day to reduce their blood sugar levels. Back in 2020, the US Food and Drug Administration (FDA) approved a new treatment containing three medicines for type 2 diabetes so having three different medications in a single tablet is an important advancement in diabetes treatment to improve glycemic control. https://www.ns-healthcare.com/news/company-news/type-2-diabetes-treatment-trijardy-xr/
-
-That said, it becomes crucial for Pharma companies keep expanding their portfolio with drugs and treatments that can not only help diabetic patients but also those who are potencially in risk to become in one, as well as offer "generic" options for low income population.
+That said, it becomes a great business opportunity for Hospitals and Clinics to have a model that can predict potential diabetes patterns among their patients as earliest as possible.
 
 ### Data Description:
 
@@ -35,10 +33,15 @@ The objective of the dataset is to predict among non-diabetic patients whether o
 
 ##### What would be your impact / impact hypothesis:
 
-The impact for the pharma company would include the following:
-- The early detection on patients at risk of being diabetic would increase significantly the number of patients (target) for the Diabetic Division within the Pharma company. That means an expansion of its portfolio with a very positive revenue impact.
-- Positive social impact on the health of the population.
-- Positive marketing for the pharma company.
+The impact for the Healthcare System would include the following:
+
+#### [PRESENT SERVICES] + [NEW MARKETS] Develop new markets or market segments:
+
+There is opportunity for new/additional business when it is possible to expand the number of patients. We can identify where and how current services answer a need for a new group of prospective patients. 
+
+#### [NEW SERVICES] + [EXISTING MARKETS] Develop new products or services:
+
+The core idea is to bring new, different or better exams or tests to current patients. Product development is based on a clear understanding of the needs and interests of the patients base and being able to offer a treatment that is responsive to those needs such an early detection.
 
 ### Tools:
 
@@ -54,4 +57,4 @@ I will apply ML techniques to build a Classification Model in Python.
 
 ##### What would a minimum viable product (MVP) look like for this project?
 
-Some plots that can initially show diabetes diagnosis by age group as well as the correlation heatmap among the features will be part of the MVP request. 
+Some plots that can initially show total diabetes diagnosis in out dataset. Also, Blood Pressure and BMI (weight) compare with the outcome will be part of the MVP request. 
