@@ -28,7 +28,7 @@ Logistic regression and k-nearest neighbors classifiers were used before settlin
 - Numpy and Pandas for data manipulation
 - Scikit-learn for modeling
 - Matplotlib and Seaborn for plotting
-- Tableau for interactive visualizations https://public.tableau.com/app/profile/hernan.trujillo
+- Tableau for interactive visualizations https://public.tableau.com/app/profile/hernan.trujillo/viz/DiabetesRiskForecast/TotalDiabetesDistribution
 - Excel for preliminar EDA process
 
 #### Communication
