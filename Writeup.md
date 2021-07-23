@@ -25,11 +25,11 @@ Combining particular dummies and ranges of numeric features (Binaries) to highli
 Logistic regression and k-nearest neighbors classifiers were used before settling on Decision Tree Classifier as the model with strongest cross-validation performance. 
 
 #### Tools
-Numpy and Pandas for data manipulation
-Scikit-learn for modeling
-Matplotlib and Seaborn for plotting
-Tableau for interactive visualizations https://public.tableau.com/app/profile/hernan.trujillo
-Excel for preliminar EDA process
+- Numpy and Pandas for data manipulation
+- Scikit-learn for modeling
+- Matplotlib and Seaborn for plotting
+- Tableau for interactive visualizations https://public.tableau.com/app/profile/hernan.trujillo
+- Excel for preliminar EDA process
 
 #### Communication
 In addition to the slides and visuals presented, Diabetes Risk Forecast will be embedded on my personal GitHub blog.
