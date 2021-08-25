@@ -1,4 +1,4 @@
-# Diabetes Risk Forecast
+# Diabetes Predictor
 About one in ten U.S. adults has diabetes now, according to the Centers for Disease Control and Prevention (CDC). But by 2050, that rate could skyrocket to as many as one in three. With this in mind, we will show how implementing Data Science we can support the Healtcare Systems such as Hospitals and Clinics identify potential Diabetic patients that show characteristics that are similar to other patients with the same diagnosis in order to provide early proffessional advise with medicine and treatments that can help patients take actions to control the process of becoming diabetic in the future.
 
 ### Question/Need:
